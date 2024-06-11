@@ -1,6 +1,6 @@
 ### CASUAL 3D MULTIPLAYER GAME
 # [ Spitting-Alpaca ]
-![Spitting-Alpaca-log](/README.assets/Spitting-Alpaca-logo.png)
+![Spitting-Alpaca-log](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/2b054f4e-1302-46d6-ba54-552d080f8ce2)   
 <br>
 <br>  
 
@@ -26,7 +26,7 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
    
 ## :video_game: How to Play
 ### Key Controller
-![keyController](/README.assets/KeyController.png)
+![keyController](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/b6a4e586-0b0f-4912-a79f-3e15b05261e6)   
 <br>
 
 ### 🔅 목표
