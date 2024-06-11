@@ -1,6 +1,6 @@
 ### CASUAL 3D MULTIPLAYER GAME
 # [ Spitting-Alpaca ]
-![Spitting-Alpaca-log](/README.assets/Spitting-Alpaca-logo.png)
+![Spitting-Alpaca-log](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/2b054f4e-1302-46d6-ba54-552d080f8ce2)   
 <br>
 <br>  
 
@@ -18,7 +18,7 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
    
 ## :camera: 소개 영상
 <details>
-<summary><a><b>About Spitting-Alpaca</b></a> </summary>
+<summary>$\sf{\large{\color{#8A2908} About\ Spitting-Alpaca }}$</summary>
 
 ![UCC](/README.assets/[GIF]Spitting-Alpaca.gif)   
 </details>
@@ -26,7 +26,7 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
    
 ## :video_game: How to Play
 ### Key Controller
-![keyController](/README.assets/KeyController.png)
+![keyController](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/b6a4e586-0b0f-4912-a79f-3e15b05261e6)   
 <br>
 
 ### 🔅 목표
@@ -48,39 +48,40 @@ Spitting-Alpaca는 Casual 3D 멀티플레이 게임으로, 복잡한 설정이�
 </br>   
    
 ### ⛳️ 게임 TIP      
-- <mark>폭탄</mark>이 터지기 전에 피해야 합니다.   
+- $\sf{\large{\color{#6580DD} 폭탄 }}$이 터지기 전에 피해야 합니다.   
   <details>
     <summary>:bomb: </summary>
 
-    ![bomb](/README.assets/[GIF]폭탄.gif)   
+    ![bomb](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/58dcf72b-b3e6-497a-a94e-fea5592680f3)    
   </details>
 
 
-- 플레이 중 <mark>풀</mark>을 먹어야 체력이 유지됩니다.  
+- 플레이 중 $\sf{\large{\color{#6580DD} 풀 }}$을 먹어야 체력이 유지됩니다.  
   <details>
   <summary>:seedling: </summary>
 
-  ![eat](/README.assets/[GIF]풀먹기.gif)   
+  ![eat](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/01928565-70f8-4b52-8076-81b3afbda53f)   
   </details>
 
-- NPC 알파카를 공격하면 <mark>스턴</mark>에 걸립니다.  
+- NPC 알파카를 공격하면 $\sf{\large{\color{#6580DD} 스턴 }}$에 걸립니다.  
   <details>
   <summary>:warning: </summary>
 
-  ![stun](/README.assets/[GIF]스턴.gif)   
+  ![stun](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/3f70fb1e-81e2-475f-bc86-4af2bd547b02)   
   </details>
 
-- "무궁화 꽃이 피었습니<mark>다</mark>" 에 멈춰야 합니다. :dancers:
+- "무궁화 꽃이 피었습니 $\sf{\large{\color{#6580DD} 다 }}$ " 에 멈춰야 합니다. :dancers:
 
-- <mark>ITEM</mark> 
+- $\sf{\large{\color{#6580DD} ITEM }}$
   <details>
   <summary>:cyclone: 토네이도 : 자신이 플레이어임이 발각되었을 때, 알파카들의 위치 섞기 </summary>
 
-    ![tornado](/README.assets/[GIF]토네이도2.gif)  
+    ![tornado](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/4272e566-0398-43da-99a5-5742fd8d7d62)   
   </details> 
   <details>
   <summary>:round_pushpin: 호르몬 : 플레이어 알파카를 탐지 </summary>
-    ![hormone](/README.assets/[GIF]호르몬.gif)  
+     
+    ![hormone](https://github.com/Spitting-Alpaca-project/spitting-alpaca/assets/147142254/f855f0c4-edae-4242-95e0-dfb2838d6dce)    
   </details>
   <br> 
 
